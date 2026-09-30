@@ -1,0 +1,97 @@
+{
+  "ano": 2026,
+  "uf": "SP",
+  "total": 10,
+  "feriados": [
+    {
+      "data": "2026-01-01",
+      "nome": "Confraternização Universal",
+      "tipo": "nacional",
+      "uf": null,
+      "fonte": "https://holidays.readthedocs.io/en/latest/auto_gen_docs/brazil/",
+      "versao_fonte": "0.105",
+      "atualizado_em": "2026-09-30T14:02:44.147512+00:00"
+    },
+    {
+      "data": "2026-04-21",
+      "nome": "Tiradentes",
+      "tipo": "nacional",
+      "uf": null,
+      "fonte": "https://holidays.readthedocs.io/en/latest/auto_gen_docs/brazil/",
+      "versao_fonte": "0.105",
+      "atualizado_em": "2026-09-30T14:02:44.147512+00:00"
+    },
+    {
+      "data": "2026-05-01",
+      "nome": "Dia do Trabalhador",
+      "tipo": "nacional",
+      "uf": null,
+      "fonte": "https://holidays.readthedocs.io/en/latest/auto_gen_docs/brazil/",
+      "versao_fonte": "0.105",
+      "atualizado_em": "2026-09-30T14:02:44.147512+00:00"
+    },
+    {
+      "data": "2026-07-09",
+      "nome": "Revolução Constitucionalista",
+      "tipo": "estadual",
+      "uf": "SP",
+      "fonte": "https://holidays.readthedocs.io/en/latest/auto_gen_docs/brazil/",
+      "versao_fonte": "0.105",
+      "atualizado_em": "2026-09-30T14:02:44.147512+00:00"
+    },
+    {
+      "data": "2026-09-07",
+      "nome": "Independência do Brasil",
+      "tipo": "nacional",
+      "uf": null,
+      "fonte": "https://holidays.readthedocs.io/en/latest/auto_gen_docs/brazil/",
+      "versao_fonte": "0.105",
+      "atualizado_em": "2026-09-30T14:02:44.147512+00:00"
+    },
+    {
+      "data": "2026-10-12",
+      "nome": "Nossa Senhora Aparecida",
+      "tipo": "nacional",
+      "uf": null,
+      "fonte": "https://holidays.readthedocs.io/en/latest/auto_gen_docs/brazil/",
+      "versao_fonte": "0.105",
+      "atualizado_em": "2026-09-30T14:02:44.147512+00:00"
+    },
+    {
+      "data": "2026-11-02",
+      "nome": "Finados",
+      "tipo": "nacional",
+      "uf": null,
+      "fonte": "https://holidays.readthedocs.io/en/latest/auto_gen_docs/brazil/",
+      "versao_fonte": "0.105",
+      "atualizado_em": "2026-09-30T14:02:44.147512+00:00"
+    },
+    {
+      "data": "2026-11-15",
+      "nome": "Proclamação da República",
+      "tipo": "nacional",
+      "uf": null,
+      "fonte": "https://holidays.readthedocs.io/en/latest/auto_gen_docs/brazil/",
+      "versao_fonte": "0.105",
+      "atualizado_em": "2026-09-30T14:02:44.147512+00:00"
+    },
+    {
+      "data": "2026-11-20",
+      "nome": "Dia Nacional de Zumbi e da Consciência Negra",
+      "tipo": "nacional",
+      "uf": null,
+      "fonte": "https://holidays.readthedocs.io/en/latest/auto_gen_docs/brazil/",
+      "versao_fonte": "0.105",
+      "atualizado_em": "2026-09-30T14:02:44.147512+00:00"
+    },
+    {
+      "data": "2026-12-25",
+      "nome": "Natal",
+      "tipo": "nacional",
+      "uf": null,
+      "fonte": "https://holidays.readthedocs.io/en/latest/auto_gen_docs/brazil/",
+      "versao_fonte": "0.105",
+      "atualizado_em": "2026-09-30T14:02:44.147512+00:00"
+    }
+  ]
+}
