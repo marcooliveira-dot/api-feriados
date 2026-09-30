@@ -1,0 +1,13 @@
+services:
+  api:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000"
+    environment:
+      API_KEY: ${API_KEY:?Preencha API_KEY no arquivo .env}
+      DATABASE_PATH: /app/data/feriados.sqlite3
+    volumes:
+      - feriados_data:/app/data
+    restart: unless-stopped
+volumes:
+  feriados_data:
